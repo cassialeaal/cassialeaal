@@ -1,7 +1,10 @@
 ### Hi I'm Cassia! 👋
-Loved about technology and learning, I believe in evolution
+
+### Loved about technology and learning, I believe in evolution
 intrapersonal and the strength of human-machine interaction. So I always seek to develop new skills and abilities,
-balancing technical knowledge and human development.
+balancing technical knowledge and human development. <img src="link_da_imagem" width="30px"></h2>
+
+
 <!--
 **cassialeaal/cassialeaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

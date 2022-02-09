@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
-<a href="https://www.linkedin.com/in/cassia-leal"><img src="https://github.com/cassialeaal/cassialeaal/linkedin.png" width="16"></img></a> ![image](https://user-images.githubusercontent.com/85911861/153112241-afb128cd-7e49-4d74-9c64-b7ae74d7cca2.png)(https://www.linkedin.com/in/cassia-leal/)  
+<a href="https://www.linkedin.com/in/cassia-leal"><img src="https://github.com/cassialeaal/cassialeaal/linkedin.png" width="16"></img></a> [LinkedIn (https://www.linkedin.com/in/seu_usuário)  

@@ -2,6 +2,8 @@
 
 ### Loved about technology and learning, I believe in evolution intrapersonal and the strength of human-machine interaction. So I always seek to develop new skills and abilities, balancing technical knowledge and human development.
 
+### <img src="https://drive.google.com/file/d/1rXYm88qsz66UYNX26lS-Tj0WyeJu3uvd/view?usp=sharing" width="30px"></h2>
+
 
 <!--
 **cassialeaal/cassialeaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

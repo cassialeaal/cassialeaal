@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi I'm Cassia! 👋
 
 ### Texto de boas vindas <img src="link_da_imagem" width="30px"></h2>
+
+<img src="capagithub.png" alt="some text" width=60 height=40>
 
 <!--
 **cassialeaal/cassialeaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

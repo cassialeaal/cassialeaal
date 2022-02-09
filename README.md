@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
+<a href="https://www.linkedin.com/in/cassia-leal"><img src="https://github.com/cassialeaal/cassialeaal/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/cassia-leal)  

@@ -2,7 +2,7 @@
 
 ### Loved about technology and learning, I believe in evolution intrapersonal and the strength of human-machine interaction. So I always seek to develop new skills and abilities, balancing technical knowledge and human development.
 
-### <img src="https://drive.google.com/file/d/1rXYm88qsz66UYNX26lS-Tj0WyeJu3uvd/view?usp=sharing" width="30px"></h2>
+### <img src="capa01.png" width="30px"></h2>
 
 
 <!--

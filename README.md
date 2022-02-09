@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Texto de boas vindas <img src="link_da_imagem" width="30px"></h2>
+
 <!--
 **cassialeaal/cassialeaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

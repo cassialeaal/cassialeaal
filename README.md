@@ -30,7 +30,7 @@
 <div>
 <a href="https://www.linkedin.com/in/cassia-leal" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://wa.me/qr/URY63PAKODA6L1" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5581988104600" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%34af23?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>   
 </div>
     

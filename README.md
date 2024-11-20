@@ -4,8 +4,8 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=cassialeaal&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/cassialeaal?label=Follow&style=social)
 <br>
 <br>
-- :computer: Cientista de Dados - Machine Learning - IBM Brasil
-- :mortar_board: Engenharia de Controle e Automação - UPE 2025
+- :computer: Cientista de Dados - Artificial Intelligence - IBM Brasil
+- :mortar_board: Engenharia de Controle e Automação - UPE 2026
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=py,azure,java,maven,spring,mysql,c)](https://skillicons.dev) 
